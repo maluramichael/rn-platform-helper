@@ -1,5 +1,11 @@
 # Platform Helper #
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=rn-platform-helper)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=rn-platform-helper)
+[![npm](https://malura.de/badge/npm/platform-helper.svg)](https://www.npmjs.com/package/platform-helper)
+<!-- links:end -->
+
 Do you hate it to write this all the time?
 
 ```javascript
